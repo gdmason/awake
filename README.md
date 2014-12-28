@@ -2,4 +2,6 @@
 
 This is the sample application for [*One Month Rails*](http://onemonthrails.com)
 
-by [Gabriel Mason]
+This is my first coding project, so please be considerate of this when providing feedback and de-bugging my work.
+
+by Gabriel Mason
